@@ -7,9 +7,9 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/antanu" target="blank"><img src="https://img.shields.io/twitter/follow/antanu5?logo=twitter&style=for-the-badge" alt="antanu" /></a> </p> -->
 
-- 🔭 I’m currently working on **Data Analyst**
+- 🔭 I’m currently working on **Data Analysis**
 
-- 🌱 I’m currently learning **Data Analyst.**
+- 🌱 I’m currently learning **Data Analysis.**
 
 - 🤝 I’m looking for Work with **IT company**
 
