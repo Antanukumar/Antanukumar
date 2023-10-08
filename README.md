@@ -40,3 +40,50 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antanukumar&show_icons=true&locale=en" alt="antanukumar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antanukumar&" alt="antanukumar" /></p>
+- <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> **My Routine:** 
+<!---
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shreyam&show_icons=true&theme=gotham" alt="Shreyam" /> 
+--->
+ <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C325%20hrs%2025%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.4%20million%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1759 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+🌆 Daytime                7893 commits        █████████░░░░░░░░░░░░░░░░   34.67 % 
+🌃 Evening                8423 commits        █████████░░░░░░░░░░░░░░░░   37.00 % 
+🌙 Night                  4690 commits        █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   2481 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Tuesday                  4599 commits        █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+Wednesday                5406 commits        ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+Thursday                 3293 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Friday                   3403 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Saturday                 2513 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Sunday                   1070 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+🔥 Editors: 
+VS Code                  12 hrs 7 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      12 hrs 7 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 08/10/2023 19:18:41 UTC
+<!--END_SECTION:waka-->
