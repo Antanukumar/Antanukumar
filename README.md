@@ -41,6 +41,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antanukumar&" alt="antanukumar" /></p>
 - <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> **My Routine:** 
+
 <!---
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shreyam&show_icons=true&theme=gotham" alt="Shreyam" /> 
 --->
@@ -87,3 +88,4 @@ Mac                      12 hrs 7 mins       ███████████�
 
  Last Updated on 08/10/2023 19:18:41 UTC
 <!--END_SECTION:waka-->
+ 
