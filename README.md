@@ -10,9 +10,9 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/antanu" target="blank"><img src="https://img.shields.io/twitter/follow/antanu5?logo=twitter&style=for-the-badge" alt="antanu" /></a> </p> -->
 
-- 🔭 I’m currently working on **Mern Stack Developer**
+- 🔭 I’m currently Passionate on **Mern Stack And Linux Developer**
 
-- 🌱 I’m currently Working **Mern Stack Project.**
+- 🌱 I’m currently Working on **Mern Stack Project.**
 
 - 🤝 I’m looking for Work with **IT company**
 
