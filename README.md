@@ -2,7 +2,7 @@
 
 
 <!-- <h1 align="center">Hi 👋, I'm Antanu kumar</h1> -->
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Mern Stack Developer  from India</h3>
 <img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antanukumar&label=Profile%20views&color=0e75b6&style=flat" alt="antanukumar" /> </p>
@@ -10,15 +10,15 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/antanu" target="blank"><img src="https://img.shields.io/twitter/follow/antanu5?logo=twitter&style=for-the-badge" alt="antanu" /></a> </p> -->
 
-- 🔭 I’m currently working on **Data Analysis**
+- 🔭 I’m currently working on **Mern Stack Developer**
 
-- 🌱 I’m currently learning **Data Analysis.**
+- 🌱 I’m currently Working **Mern Stack Project.**
 
 - 🤝 I’m looking for Work with **IT company**
 
-- 💬 Ask me about **HTML,CSS,JavaScript and Python.**
+- 💬 Ask me about **HTML,CSS,JavaScript,React,Node,Express and MongoDB**
 
-- 📫 How to reach me **antanukumar9@gmail.com**
+- 📫 How to reach me **antanuthakur@gmail.com**
 
 - ⚡ Fun fact **I am Bug programmer**
 
