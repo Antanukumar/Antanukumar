@@ -2,7 +2,7 @@
 
 
 <!-- <h1 align="center">Hi 👋, I'm Antanu kumar</h1> -->
-<h3 align="center">A passionate Mern Stack Developer  from India</h3>
+<h3 align="center">A passionate Linux Developer from India</h3>
 <img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antanukumar&label=Profile%20views&color=0e75b6&style=flat" alt="antanukumar" /> </p>
@@ -10,13 +10,13 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/antanu" target="blank"><img src="https://img.shields.io/twitter/follow/antanu5?logo=twitter&style=for-the-badge" alt="antanu" /></a> </p> -->
 
-- 🔭 I’m currently Passionate on **Mern Stack And Linux Developer**
+- 🔭 I’m currently Passionate on **inux Developer**
 
-- 🌱 I’m currently Working on **Mern Stack Project.**
+- 🌱 I’m currently Working on **Firewall system Project.**
 
 - 🤝 I’m looking for Work with **IT company**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,React,Node,Express and MongoDB**
+- 💬 Ask me about **Linux System Administration,Shell Scripting (Bash),File System Management,Process Management,User and Group Administration,Package Management,C Programming on Linux,Kernel Module Basics**
 
 - 📫 How to reach me **antanuthakur@gmail.com**
 
