@@ -150,7 +150,7 @@ Backend API validation for a travel platform.
 - [x] Complete QA internship
 - [x] Build UI and API automation frameworks
 - [x] Win a hackathon / competition
-- [x] Land an **SDET / QA Automation** role in a product company
+- [_] Land an **SDET / QA Automation** role in a product company
 - [x] Build more frameworks with Docker + Jenkins
 - [x] Contribute to open source
 
